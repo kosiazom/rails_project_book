@@ -1,2 +1,2 @@
 # rails_project_book
-Learning to rails on my come
+Learning to rails on my own
